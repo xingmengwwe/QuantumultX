@@ -6,5 +6,5 @@ payload:
   - DOMAIN-KEYWORD,short.weixin
   - DOMAIN-KEYWORD,google
   - DOMAIN-KEYWORD,dns.weixin
- # - DOMAIN-SUFFIX,short.weixin.qq.com
- # - DOMAIN-SUFFIX,dns.weixin.qq.com.cn
+# - DOMAIN-SUFFIX,short.weixin.qq.com
+# - DOMAIN-SUFFIX,dns.weixin.qq.com.cn
