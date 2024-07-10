@@ -4,4 +4,4 @@ payload:
   - DOMAIN-KEYWORD,short.wechat
   - DOMAIN-KEYWORD,long.weixin
   - DOMAIN-KEYWORD,short.weixin
-  - DOMAIN-KEYWORD,dns.weixin
+  - DOMAIN-KEYWORD,dns.weixin,REJECT
